@@ -1,0 +1,7 @@
+UV
+uv init: gera o projeto
+uv add ipykernel: instala o kernel
+
+GIT
+C:\Users\it_bl\cpp\mmap3\palete_caixa>git init
+Initialized empty Git repository in C:/Users/it_bl/cpp/mmap3/palete_caixa/.git/
