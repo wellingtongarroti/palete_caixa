@@ -5,4 +5,5 @@
 *.pptx
 *.txt
 *.env
+__pycache__
 .venv
