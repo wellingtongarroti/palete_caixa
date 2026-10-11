@@ -11,7 +11,7 @@ def pagina_listar():
 
     STATUS_CORES =  {
         'ativo': ':large_blue_circle:',
-        'inativo': 'red_circle'
+        'inativo': ':red_circle:'
     }
 
     for u in usuarios:
